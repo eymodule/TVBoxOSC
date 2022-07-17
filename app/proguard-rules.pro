@@ -197,5 +197,5 @@
 -keep class com.github.tvbox.osc.ui.tv.widget.ViewObj{
     <methods>;
 }
-
+-keep class com.xunlei.downloadlib.** {*;}
 -keep class com.github.catvod.crawler.*{*;}
